@@ -1,0 +1,20 @@
+{
+  "decks": [
+    {
+      "id": "demo0001",
+      "name": "Spanish for Persian speakers (demo)",
+      "description": "Sample deck: Persian front, Spanish back. Delete it anytime.",
+      "created_at": "2026-01-01T00:00:00",
+      "cards": [
+        {"id": "demo0101", "front": "سلام", "back": "Hola", "ease_factor": 2.5, "interval": 0, "repetitions": 0, "due": "2024-01-01", "created_at": "2026-01-01T00:00:00", "last_reviewed": null, "total_reviews": 0},
+        {"id": "demo0102", "front": "ممنون", "back": "Gracias", "ease_factor": 2.5, "interval": 0, "repetitions": 0, "due": "2024-01-01", "created_at": "2026-01-01T00:00:00", "last_reviewed": null, "total_reviews": 0},
+        {"id": "demo0103", "front": "خداحافظ", "back": "Adiós", "ease_factor": 2.5, "interval": 0, "repetitions": 0, "due": "2024-01-01", "created_at": "2026-01-01T00:00:00", "last_reviewed": null, "total_reviews": 0},
+        {"id": "demo0104", "front": "لطفاً", "back": "Por favor", "ease_factor": 2.5, "interval": 0, "repetitions": 0, "due": "2024-01-01", "created_at": "2026-01-01T00:00:00", "last_reviewed": null, "total_reviews": 0},
+        {"id": "demo0105", "front": "صبح بخیر", "back": "Buenos días", "ease_factor": 2.5, "interval": 0, "repetitions": 0, "due": "2024-01-01", "created_at": "2026-01-01T00:00:00", "last_reviewed": null, "total_reviews": 0},
+        {"id": "demo0106", "front": "شب بخیر", "back": "Buenas noches", "ease_factor": 2.5, "interval": 0, "repetitions": 0, "due": "2024-01-01", "created_at": "2026-01-01T00:00:00", "last_reviewed": null, "total_reviews": 0},
+        {"id": "demo0107", "front": "چطوری؟", "back": "¿Cómo estás?", "ease_factor": 2.5, "interval": 0, "repetitions": 0, "due": "2024-01-01", "created_at": "2026-01-01T00:00:00", "last_reviewed": null, "total_reviews": 0},
+        {"id": "demo0108", "front": "اسم من ... است", "back": "Me llamo ...", "ease_factor": 2.5, "interval": 0, "repetitions": 0, "due": "2024-01-01", "created_at": "2026-01-01T00:00:00", "last_reviewed": null, "total_reviews": 0}
+      ]
+    }
+  ]
+}
