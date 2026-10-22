@@ -35,7 +35,7 @@
 ## Install
 
 ```bash
-pip install termcard
+python -m pip install termcard
 ```
 
 Requires Python 3.10+. No other dependencies.
